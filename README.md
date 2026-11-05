@@ -2,11 +2,9 @@
 
 ### Entry-Level SOC Analyst | Computer & Communications Engineer | Junior Network Engineer | Network Security
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=539BF5&center=true&vCenter=true&width=750&lines=Entry-Level+SOC+Analyst;Junior+Network+Engineer;Network+Security;CCNA+%26+CEH+Training;IAM+%7C+Virtualization+%7C+Cryptanalysis" alt="Typing SVG" />
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=539BF5&center=true&vCenter=true&width=750&lines=Entry-Level+SOC+Analyst;Junior+Network+Engineer;Network+Security;Virtualization+%7C+Cryptanalysis" alt="Typing SVG" /> </p>
 
-📍 Alexandria, Egypt  |  🎓 Alexandria University  |  🛡️ Google & Microsoft cybersecurity certified
+📍 Alexandria, Egypt  |  🎓 Alexandria University  |  🛡️ Google & Microsoft cybersecurity certified  |  🌐 CCNA & CEH courses at Engineers Syndicate
 
 ---
 
